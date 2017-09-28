@@ -1,7 +1,7 @@
 Quick Start 2 - SNP Example
 ============================
 
-This example has been used to test the performance of WopMars in our paper with different amount of data and database engine and access method (Ref). Single nucleotide polymorphismes (SNPs) are very variable position in the genome. Many SNPs have been statistically associated to diseases or phenotypes. This workflow is used to fill in a database that relates SNPs and phenotypes (Ref).
+This example has been used to test the performance of WopMars in our paper with different amount of data and database engine and access method (Ref). Single nucleotide polymorphisms (SNPs) are very variable position in the genome. Many SNPs have been statistically associated to diseases or phenotypes. This workflow is used to fill in a database that relates SNPs and phenotypes (Ref).
 
 The database access methods are: **SQLAlchemy ORM**, **core** and **pandas read_sql** and **to_sql**. We have defined three different wopfiles using different wrappers for each of these methods.
 
